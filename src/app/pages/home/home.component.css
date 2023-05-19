@@ -1,0 +1,48 @@
+.align-img{
+    max-width: 300px;
+    margin: 0px auto;
+}
+.fa-brands{
+    font-size: 24px;
+
+}
+/* .social-media{
+    max-width: 200px;
+    margin: 0pc auto;
+} */
+.social-media a{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    border: 1px solid #6d6a6a;
+    width: 4rem;
+    height: 4rem;
+    margin:10px;    
+}
+.fa-brands.fa-discord{
+    color: #404EED;
+}
+.fa-brands.fa-linkedin{
+    color: #0077b5;
+}
+.fa-brands.fa-instagram {
+    color: #de3d64;
+}
+.title-container{
+    max-width: 950px;
+    margin: 0px auto;
+}
+.description ul li{
+    list-style: none !important;
+}
+.description i{
+    font-size: 22px;
+    margin-right: 20px;
+}
+.description i.fa-solid.fa-building-user {
+    margin-right: 8px;
+}
+.description i.fa-solid.fa-graduation-cap {
+    margin-right: 8px;
+}
